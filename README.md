@@ -174,6 +174,6 @@ the beginning. Rinse and repeat.
 
 ## License
 
-This tutorial, as small as it is, shall have a license too—therefor:
-
+Very Short Interactive Git Tutorial by Andreas Lappe is licensed under a
+Creative Commons Attribution-ShareAlike 3.0 Unported License.
 
